@@ -1,0 +1,20 @@
+<main>
+        <div class="desc">
+            Welcome to <b>AnimeStreamX</b>! Stream your favorite anime online in high quality with English subtitles and dubbing. Enjoy fast streaming, easy downloads, and a huge anime library. Bookmark us for daily updates!
+        </div>
+        <!-- Add your main content here -->
+           <section>
+        <h2>Download Anime Packs</h2>
+        <ul>
+            <li>
+                <a href="[Anime Time] Nande Koko ni Sensei ga! (Uncensored) Why the Hell Are You Here, Teacher! - なんでここに先生が! [Bluray][1080p HEVC][10bit x265][AAC][BD].zip" download>Why the Hell Are You Here, Teacher! (ZIP)</a>
+            </li>
+            <li>
+                <a href="downloads/onepiece-pack.zip" download>Download One Piece Anime Pack (ZIP)</a>
+            </li>
+            <li>
+                <a href="downloads/bleach-pack.zip" download>Download Bleach Anime Pack (ZIP)</a>
+            </li>
+        </ul>
+    </section>
+    </main>
