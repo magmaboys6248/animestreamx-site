@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>AnimeStreamX - Watch Anime Online</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#4e54c8">
+    <meta name="description" content="Watch AnimeStreamX Online with English Sub and Dubbed Free. Download Anime in High Quality. Bookmark now!">
+    <meta property="og:title" content="AnimeStreamX - Watch Anime Online" />
+    <meta property="og:description" content="Stream Anime Online with English Sub and Dubbed Free. Download Anime in High Quality. Bookmark now!" />
+    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/7e/Anime_Girl_Vector.svg" />
+    <meta property="og:url" content="https://animestreamx.com/" />
+    <meta property="og:site_name" content="AnimeStreamX" />
+    <style>
+        body {
+            font-family: 'Fira Sans', Arial, sans-serif;
+            background: #f5f7fa;
+            color: #222;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: linear-gradient(90deg, #4e54c8, #8f94fb);
+            color: #fff;
+            padding: 30px 0 20px 0;
+            text-align: center;
+        }
+        .logo {
+            width: 90px;
+            height: 90px;
+            border-radius: 50%;
+            background: #fff;
+            display: inline-block;
+            margin-bottom: 10px;
+            box-shadow: 0 4px 18px #4e54c844;
+        }
+        .logo img {
+            width: 90px;
+            height: 90px;
+            object-fit: contain;
+            border-radius: 50%;
+        }
+        h1 {
+            margin: 10px 0 0 0;
+            font-size: 2.2em;
+            letter-spacing: 2px;
+        }
+        main {
+            max-width: 700px;
+            margin: 30px auto;
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 2px 12px #0001;
+            padding: 30px 24px 32px 24px;
+        }
+        .desc {
+            font-size: 1.1em;
+            margin-bottom: 18px;
+        }
+        footer {
+            background: #4e54c8;
+            color: #fff;
+            text-align: center;
+            padding: 14px 0;
+            border-radius: 0 0 12px 12px;
+            margin-top: 40px;
+        }
+        @media (max-width: 600px) {
+            main { padding: 16px 6px; }
+            .logo { width: 60px; height: 60px; }
+            .logo img { width: 60px; height: 60px; }
+            h1 { font-size: 1.2em; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <!-- New Logo: Replace the src with your own logo if desired -->
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Anime_Girl_Vector.svg" alt="AnimeStreamX Logo">
+        </div>
+        <h1>AnimeStreamX</h1>
+        <div>Watch Anime Online Free</div>
+    </header>
+    <main>
+        <div class="desc">
+            Welcome to <b>AnimeStreamX</b>! Stream your favorite anime online in high quality with English subtitles and dubbing. Enjoy fast streaming, easy downloads, and a huge anime library. Bookmark us for daily updates!
+        </div>
+        <!-- Add your main content here -->
+           <section>
+        <h2>Download Anime Packs</h2>
+        <ul>
+            <li>
+                <a href="[Anime Time] Nande Koko ni Sensei ga! (Uncensored) Why the Hell Are You Here, Teacher! - なんでここに先生が! [Bluray][1080p HEVC][10bit x265][AAC][BD].zip" download>Why the Hell Are You Here, Teacher! (ZIP)</a>
+            </li>
+            <li>
+                <a href="downloads/onepiece-pack.zip" download>Download One Piece Anime Pack (ZIP)</a>
+            </li>
+            <li>
+                <a href="downloads/bleach-pack.zip" download>Download Bleach Anime Pack (ZIP)</a>
+            </li>
+        </ul>
+    </section>
+    </main>
+    <footer>
+        &copy; 2025 AnimeStreamX. All rights reserved.
+    </footer>
+</body>
+</html>
